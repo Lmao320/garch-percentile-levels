@@ -18,7 +18,7 @@ Calcula niveles de precio estadísticos (**P5, P25, P50, P75 y P95**) para la pr
 
 ```bash
 pip install -r requirements.txt
-python percentiles_garch.py
+python Percentilesv2.py
 ```
 
 ## Limitaciones
